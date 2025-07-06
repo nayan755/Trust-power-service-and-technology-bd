@@ -61,5 +61,5 @@ export default function TrustPowerSite() { return ( <div className="min-h-screen
   {/* Contact */}
   <section id="contact" className="py-24 px-4 bg-zinc-950">
     <div className="max-w-4xl mx-auto text-center">
-      <h3 className="text-3xl font-semibold mb-4">Contact Us</h3
+      <h3 className="text-3xl font-semibold mb-4">Contact Us</h3 phone number : +8801714320194 email : trustpowerservicebd@yahoo.
 
